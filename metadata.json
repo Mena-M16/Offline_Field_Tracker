@@ -1,0 +1,6 @@
+{
+  "name": "Offline Field Issue Tracker",
+  "description": "Offline-first infrastructure issue tracking system for field workers and coordinators with reliable sync and audit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
